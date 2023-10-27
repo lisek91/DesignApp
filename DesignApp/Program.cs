@@ -40,7 +40,7 @@ foreach (var employee in Employees)
     {
 
         employeeWithMaxResult = employee;
-        maxResult = employee.Result
+        maxResult = employee.Result;
             
     }
 
